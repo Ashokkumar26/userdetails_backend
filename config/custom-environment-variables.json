@@ -1,0 +1,8 @@
+{
+  "mongo": {
+    "url": "MONGO_URL"
+  },
+  "session": {
+    "secret": "SESSION_KEY"
+  }
+}
